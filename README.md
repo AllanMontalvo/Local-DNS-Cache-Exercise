@@ -1,6 +1,10 @@
 <h1>Local DNS Cache Exercise</h1>
 This tutorial outlines how Local DNS Cache works.<br />
 
+<h2>Prerequisite</h2>
+In this project, you should have created a server and a client connected within the same network and an A-Record. If you have not done so, please use these links to take you to <a href="https://github.com/AllanMontalvo/Virtualbox-Active-Directory">Configuring On-premises Active Directory</a> to create your small network or <a href="https://github.com/AllanMontalvo/A-Record-Exercise">A-Record Exercise</a> to create an A-Record. Once both of these prerequisites are complete, you may begin the project.
+
+
 <h2>Environments and Technologies Used</h2>
 
 **Technologies and Servies**
