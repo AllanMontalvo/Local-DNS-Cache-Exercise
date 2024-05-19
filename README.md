@@ -9,7 +9,6 @@ In this project, you should have created a server and a client connected within 
 
 **Technologies and Servies**
 - Oracle VM VirtualBox
-- Active Directory Domain Services
 - DNS Manager
 - Command Promtpt
 
