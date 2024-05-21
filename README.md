@@ -57,4 +57,4 @@ In this project, you should have created a server and a client connected within 
 </p>
 
 <h2>Final Notes</h2>
-
+In conclusion, this project outlines how a local DNS cache functions in a simple work environment. It demonstrates that once a local workstation knows a server's or website's IP address, it can consistently locate that resource. If a server changes its IP address and all workstations, except one, can locate the server, it indicates that the DNS cache on that workstation needs updating. By flushing the DNS cache and attempting to reach the server at its new IP address, the cache will be updated, resolving the connectivity issue. This project highlights the importance of DNS cache management in troubleshooting and ensuring reliable network connectivity.
