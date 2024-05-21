@@ -50,6 +50,7 @@ In this project, you should have created a server and a client connected within 
 
 **Step 5: Verify Updated A-Record Address**
 - In Client-1, type "ping mainframe" on cmd prompt.
+- Type "ipconfig /displaydns".
 - Observe the new address of mainframe.
 <p>
   <img src="https://github.com/AllanMontalvo/Local-DNS-Cache-Exercise/assets/135927674/99feb19a-90c3-42c4-a974-be479d274317" height="80%" width="80%" alt="Disk Sanitization Steps"/>
